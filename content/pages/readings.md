@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -60,7 +61,7 @@ Pyne, Stephen. _Fire in America: A Cultural History of Wildland and Rural Fire_.
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/2_3))
+({{% resource_link cdb4c803-728c-2ef2-331d-03df6855c82a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +84,7 @@ Greenberg, Dolores. "Energy, Power, and Perceptions of Social Change in the Earl
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/4_5))
+({{% resource_link 7232bd1c-dd76-003d-7d3a-3bf969678c2e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +111,7 @@ Riskin, Jessica. "The Defecating Duck, Or, The Ambiguous Origins of Artificial L
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/6_7))
+({{% resource_link 9cb0e103-b464-b47d-2b91-bddee4ee1720 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +147,7 @@ Electrification I: Building the Network
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640305) Nye, David. [_Electrifying America: Social Meanings of a New Technology_](https://mitpress.mit.edu/9780262640305). Cambridge, MA: MIT Press, 1992, selections. ISBN: 9780262640305.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/9_10))
+({{% resource_link 9fe98e1e-d0e4-eae5-4a36-5761dafb556c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Goldstein, Carolyn M. "From Service to Sales: Home Economics in Light and Power,
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/11_12))
+({{% resource_link c46c8d21-eeba-5f9b-0a50-bd0069317982 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ Yergin, Daniel. _The Prize: The Epic Quest for Oil, Money, and Power_ . Reissue 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/15_16))
+({{% resource_link 2a39fe97-2326-a615-3d14-cb378e435b40 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -320,7 +321,7 @@ Davis-Floyd, Robbie E. "Storying Corporate Futures: The Shell Scenarios." In _Co
 
 McPhee, John. "Coal Train." In _Uncommon Carriers_. New York, NY: Farrar, Strauss, and Giroux, 2006, pp. 185-236. ISBN: 9780374280390.
 
-The Bush-Cheney Energy Plan: National Energy Policy. Report of the National Policy Development Group, May 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF -2.4MB](http://www.wtrg.com/EnergyReport/National-Energy-Policy.pdf))
+The Bush-Cheney Energy Plan: National Energy Policy. Report of the National Policy Development Group, May 2001. ([PDF -2.4MB](http://www.wtrg.com/EnergyReport/National-Energy-Policy.pdf))
 
 Skim the National Energy Policy. It is _long_. Read it to get a sense of what the plan actually is/was.
 
