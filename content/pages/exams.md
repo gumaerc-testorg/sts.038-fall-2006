@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information about the final exam and its preparation.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 56489701-39a6-a688-80fa-875b1843ce07
 ---
@@ -7,7 +11,7 @@ uid: 56489701-39a6-a688-80fa-875b1843ce07
 Final Exam
 ----------
 
-Fall 2006 Final Exam ([PDF]({{< baseurl >}}/resources/final_exam))
+Fall 2006 Final Exam ({{% resource_link 9074a30a-ef86-1001-75f5-ac71f6be0de6 "PDF" %}})
 
 Final Exam Preparation
 ----------------------

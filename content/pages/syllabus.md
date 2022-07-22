@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course
+  and grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 92b72539-3b10-7ee5-5789-bbada4c804a4
 ---
@@ -22,7 +26,7 @@ Class meets twice a week. The first session of the week consists of lectures, an
 Assignments
 -----------
 
-Students will write weekly, two-page response papers on the readings in advance of the week's discussion session (and to be handed in at the end of that discussion). This assignment is intended to facilitate critical thinking about the readings and your reactions will serve as prompts for our class discussions. **Note**: response papers are not due on the days your other, longer essays are due. In addition, you may drop the lowest graded response from your final grade calculation. See [assignments]({{< baseurl >}}/pages/assignments) for a more detailed description of how to approach them. Students have two options for longer writing assignments. Everyone will write a 5-8 page mid-term essay, due in class in Ses #13, which will address themes raised in the first half of the course.
+Students will write weekly, two-page response papers on the readings in advance of the week's discussion session (and to be handed in at the end of that discussion). This assignment is intended to facilitate critical thinking about the readings and your reactions will serve as prompts for our class discussions. **Note**: response papers are not due on the days your other, longer essays are due. In addition, you may drop the lowest graded response from your final grade calculation. See {{% resource_link 463e913c-4086-de71-01fa-01608eaedde1 "assignments" %}} for a more detailed description of how to approach them. Students have two options for longer writing assignments. Everyone will write a 5-8 page mid-term essay, due in class in Ses #13, which will address themes raised in the first half of the course.
 
 ### Writing Option One
 
@@ -104,7 +108,7 @@ Badash, Lawrence. _Scientists and the Development of Nuclear Weapons: From Fissi
 
 Weart, Spencer. _The Discovery of Global Warming_. Reprint ed. Cambridge, MA: Harvard University Press, 2004. ISBN: 9780674016378.
 
-Also, see "Guide for Purchasing Books On-Line" in [related resources]({{< baseurl >}}/pages/related-resources) for advice on tracking down less expensive copies of books.
+Also, see "Guide for Purchasing Books On-Line" in {{% resource_link ac3d1815-05a2-80b9-92ce-2829b7d50566 "related resources" %}} for advice on tracking down less expensive copies of books.
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
