@@ -5,6 +5,7 @@ file: /courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_exam.pdf
 uid: 9074a30a-ef86-1001-75f5-ac71f6be0de6
 ---
 Final examination problems.
-

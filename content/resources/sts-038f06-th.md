@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: Windmills in a wind farm, mountains in the background.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-038f06-th.jpg
 uid: cafcd853-1601-9de4-9d07-9c1d4eb3d6c1
 ---
 New image Upload
-
