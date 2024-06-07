@@ -127,7 +127,7 @@ Industrial Revolution II: Miners, Strikes, and Labor
 
 Gorn, Elliott. _Mother Jones: The Most Dangerous Woman in America_. New York, NY: Hill and Wang, 2002.
 
-{{% resource_link "a381f8b8-3877-475c-ac45-15edf8b5f9de" "Songs and Ballads of the Bituminous Miners" %}} (mining songs collected by George Korson).
+[Songs and Ballads of the Bituminous Miners](http://www.loc.gov/shop/index.php?action=cCatalog.showItem&cid=13&scid=70&iid=872) (mining songs collected by George Korson).
 
 
 {{< tdclose >}}
@@ -144,7 +144,7 @@ Gorn, Elliott. _Mother Jones: The Most Dangerous Woman in America_. New York, NY
 Electrification I: Building the Network
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "75759653-2849-4e12-9479-7d58b6c53f87" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Nye, David. {{% resource_link "75759653-2849-4e12-9479-7d58b6c53f87" "_Electrifying America: Social Meanings of a New Technology_" %}}. Cambridge, MA: MIT Press, 1992, selections. ISBN: 9780262640305.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640305) Nye, David. [_Electrifying America: Social Meanings of a New Technology_](https://mitpress.mit.edu/9780262640305). Cambridge, MA: MIT Press, 1992, selections. ISBN: 9780262640305.
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 9fe98e1e-d0e4-eae5-4a36-5761dafb556c "PDF" %}})
@@ -270,11 +270,12 @@ For Horowitz, you don't have to read the whole book (unless, of course, you want
 
 For this reading, pay attention to how the different authors, from the President on to his advisors, supporters, and critics, diagnose and propose treatment for the 1979 phase of the "energy crisis." What was the crisis, and why did it look so different to so many people?
 
-Hubbert, M. King. "{{% resource_link "79fe56ed-19b5-4fc5-9146-9145da880753" "Nuclear Energy and the Fossil Fuels" %}}." Presented at the American Petroleum Institute conference, March 8, 1956.
+Hubbert, M. King. "[Nuclear Energy and the Fossil Fuels](https://www.onepetro.org/conference-paper/API-56-007
+)." Presented at the American Petroleum Institute conference, March 8, 1956.
 
 The article is pretty short, and I hope you find it interesting. Be sure to look for what are Hubbert's key points in the article, as well as his vision for the future.
 
-{{% resource_link "2774984d-80cd-4c3e-8a49-5655e2339fde" "Jimmy Carter Speeches" %}} (transcripts and audio)
+[Jimmy Carter Speeches](http://millercenter.org/scripps/archive/speeches/detail/3402) (transcripts and audio)
 
 
 {{< tdclose >}}
@@ -297,7 +298,7 @@ Weart, Spencer. _The Discovery of Global Warming_. Reprint ed. Cambridge, MA: Ha
 
 It's ok to skim parts that don't seem as relevant to the overall picture, but do try to make your way through the book. Chapters 1-2, 5, and 7-8 are the most important.
 
-You may also want to check out {{% resource_link "ea47749e-8dfb-4b78-a5a7-d197fc73aa4a" "The Discovery of Global Warming" %}}, the book's Web site at the American Institute of Physics, where Weart has published a much longer version of this book with even more annotations, and a gigantic bibliography of the scientific literature on climate change.
+You may also want to check out [The Discovery of Global Warming](http://www.aip.org/history/climate/index.html), the book's Web site at the American Institute of Physics, where Weart has published a much longer version of this book with even more annotations, and a gigantic bibliography of the scientific literature on climate change.
 
 
 {{< tdclose >}}
@@ -320,7 +321,7 @@ Davis-Floyd, Robbie E. "Storying Corporate Futures: The Shell Scenarios." In _Co
 
 McPhee, John. "Coal Train." In _Uncommon Carriers_. New York, NY: Farrar, Strauss, and Giroux, 2006, pp. 185-236. ISBN: 9780374280390.
 
-The Bush-Cheney Energy Plan: National Energy Policy. Report of the National Policy Development Group, May 2001. ({{% resource_link "97957aa8-34b2-4145-b7d2-e27df3ab62bd" "PDF -2.4MB" %}})
+The Bush-Cheney Energy Plan: National Energy Policy. Report of the National Policy Development Group, May 2001. ([PDF -2.4MB](http://www.wtrg.com/EnergyReport/National-Energy-Policy.pdf))
 
 Skim the National Energy Policy. It is _long_. Read it to get a sense of what the plan actually is/was.
 

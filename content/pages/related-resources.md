@@ -12,12 +12,12 @@ Guide to Buying Books Online
 
 The list below includes some of the Web sites I consult when shopping for books online. Some offer new books at reduced prices, others used books, others "remaindered" books—new books returned from other bookstores. It's worth shopping around!
 
-{{% resource_link "b4f1ddf4-27be-4701-996c-c6ab5be0e3e6" "Amazon®" %}} - The trusty standard. Has both new and also used books.
+[Amazon®](http://www.amazon.com/) - The trusty standard. Has both new and also used books.
 
-{{% resource_link "b81d4e15-5b92-4e11-aad9-d2c2f097f7f8" "AddALL®" %}} - Searches dozens of used book store inventories and compares the prices.
+[AddALL®](http://www.addall.com/) - Searches dozens of used book store inventories and compares the prices.
 
-{{% resource_link "b1a8515a-51fc-4985-b155-85f70ae07dd9" "AbeBooks®" %}} - Similarly compares used book stores. Has some overlap with Addall, but sometimes better for rarer or out of print books.
+[AbeBooks®](http://www.abebooks.com/) - Similarly compares used book stores. Has some overlap with Addall, but sometimes better for rarer or out of print books.
 
-{{% resource_link "f5a94569-87dc-4fb6-93d5-778f02d3335a" "half.com®" %}} - This is an ebay® site, but it doesn't have the auction component. Sellers are often just people with books to get rid of, not bookstores.
+[half.com®](http://www.half.ebay.com/) - This is an ebay® site, but it doesn't have the auction component. Sellers are often just people with books to get rid of, not bookstores.
 
 There are many others. This is a start. Enjoy!
