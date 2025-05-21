@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final examination problems.
-file: /ol-ocw-studio-app/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/9074a30aef86100175f5ac71f6be0de6_final_exam.pdf
+file: /courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/9074a30aef86100175f5ac71f6be0de6_final_exam.pdf
 file_size: 22643
 file_type: application/pdf
 learning_resource_types:

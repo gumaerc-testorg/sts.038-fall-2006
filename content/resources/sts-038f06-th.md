@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/cafcd85316019de49d079c1d4eb3d6c1_sts-038f06-th.jpg
+file: /courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/cafcd85316019de49d079c1d4eb3d6c1_sts-038f06-th.jpg
 file_size: 10167
 file_type: image/jpeg
 image_metadata:
