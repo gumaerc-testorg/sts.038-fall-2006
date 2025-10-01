@@ -87,7 +87,7 @@ Songs and Ballads of the Bituminous Miners (mining songs collected by George Kor
 {{< tdclose >}}{{< tdopen >}}
 Electrification I: Building the Network
 {{< tdclose >}}{{< tdopen >}}
-Nye, David. [*Electrifying America: Social Meanings of a New Technology*](https://mitpress.mit.edu/9780262640305). Cambridge, MA: MIT Press, 1992, selections. ISBN: 9780262640305.
+Nye, David. {{% resource_link "423c411b-611f-416d-bb7c-75e496794da0" "*Electrifying America: Social Meanings of a New Technology*" %}}. Cambridge, MA: MIT Press, 1992, selections. ISBN: 9780262640305.
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link "9fe98e1e-d0e4-eae5-4a36-5761dafb556c" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -162,11 +162,11 @@ For Horowitz, you don't have to read the whole book (unless, of course, you want
 
 For this reading, pay attention to how the different authors, from the President on to his advisors, supporters, and critics, diagnose and propose treatment for the 1979 phase of the "energy crisis." What was the crisis, and why did it look so different to so many people?
 
-Hubbert, M. King. "[Nuclear Energy and the Fossil Fuels (PDF)](https://cmapspublic.ihmc.us/rid=1176076210219_852008754_13952/Hubbert1956.pdf)." Presented at the American Petroleum Institute conference, March 8, 1956.
+Hubbert, M. King. "{{% resource_link "0f6cbf59-7161-4dd3-99b0-52f989d90f0a" "Nuclear Energy and the Fossil Fuels (PDF)" %}}." Presented at the American Petroleum Institute conference, March 8, 1956.
 
 The article is pretty short, and I hope you find it interesting. Be sure to look for what are Hubbert's key points in the article, as well as his vision for the future.
 
-[Jimmy Carter Speeches](http://millercenter.org/scripps/archive/speeches/detail/3402) (transcripts and audio)
+{{% resource_link "bd239de3-3798-4f8e-8da9-9029df2fa79a" "Jimmy Carter Speeches" %}} (transcripts and audio)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -180,7 +180,7 @@ Weart, Spencer. *The Discovery of Global Warming*. Reprint ed. Cambridge, MA: Ha
 
 It's ok to skim parts that don't seem as relevant to the overall picture, but do try to make your way through the book. Chapters 1-2, 5, and 7-8 are the most important.
 
-You may also want to check out [The Discovery of Global Warming](http://www.aip.org/history/climate/index.html), the book's Web site at the American Institute of Physics, where Weart has published a much longer version of this book with even more annotations, and a gigantic bibliography of the scientific literature on climate change.
+You may also want to check out {{% resource_link "080f9b8b-2dca-4013-b9b5-070583d13661" "The Discovery of Global Warming" %}}, the book's Web site at the American Institute of Physics, where Weart has published a much longer version of this book with even more annotations, and a gigantic bibliography of the scientific literature on climate change.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -194,7 +194,7 @@ Davis-Floyd, Robbie E. "Storying Corporate Futures: The Shell Scenarios." In *Co
 
 McPhee, John. "Coal Train." In *Uncommon Carriers*. New York, NY: Farrar, Strauss, and Giroux, 2006, pp. 185-236. ISBN: 9780374280390.
 
-The Bush-Cheney Energy Plan: National Energy Policy. [Report of the National Policy Development Group, May 2001 (PDF)](https://www.nrc.gov/docs/ML0428/ML042800056.pdf). 
+The Bush-Cheney Energy Plan: National Energy Policy. {{% resource_link "3b2bd170-b4bb-4c2a-8d4a-9a87e88656a7" "Report of the National Policy Development Group, May 2001 (PDF)" %}}. 
 
 Skim the National Energy Policy. It is *long*. Read it to get a sense of what the plan actually is/was.
 
