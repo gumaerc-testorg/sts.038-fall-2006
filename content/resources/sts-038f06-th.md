@@ -5,8 +5,7 @@ file: /ol-ocw-studio-app/courses/sts-038-energy-and-environment-in-american-hist
 file_size: 10167
 file_type: image/jpeg
 image_metadata:
-  caption: A wind farm. (Image courtesy of {{% resource_link "96454251-311f-4907-b855-b769f7917b49"
-    "Joel Carranza" %}}.)
+  caption: A wind farm. (Image courtesy of [Joel Carranza](http://www.carranza-collective.com/joel/).)
   credit: ''
   image-alt: Windmills in a wind farm, mountains in the background.
 learning_resource_types: []
